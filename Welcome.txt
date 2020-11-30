@@ -1,5 +1,9 @@
 
 Welcome to my file.
 
+Some minor changes 1
+Some minor changes 2
+
+Update in another_branch
 Hello everyone.
 Regards 
